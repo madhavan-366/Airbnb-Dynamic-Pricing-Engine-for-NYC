@@ -25,11 +25,11 @@ This project is an end-to-end data analysis of the New York City Airbnb market. 
 ### Enhanced Power BI Dashboard
 Here is a preview of the interactive Power BI dashboard. It includes a market overview, KPI cards, and advanced features like drillthrough and custom tooltips.
 
-![Power BI Dashboard](PowerBI_Dashboard.png)
+![Power BI Dashboard](PowerBI Dashboard.png)
 
 ---
 
 ### Model Feature Importance
 The chart below shows the top 10 features that our model found most influential in predicting price, with location (`longitude`, `latitude`) being the most critical factors.
 
-![Feature Importance Plot](Feature_Importance.png)
+![Feature Importance Plot](feature_importance.png)
