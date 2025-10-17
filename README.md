@@ -23,9 +23,7 @@ This project is an end-to-end data analysis of the New York City Airbnb market. 
 ---
 
 ### Enhanced Power BI Dashboard
-Here is a preview of the interactive Power BI dashboard. It includes a market overview, KPI cards, and advanced features like drillthrough and custom tooltips.
-
-![Power BI Dashboard](PowerBi Dashboard.png)
+The interactive Power BI dashboard which includes a market overview, KPI cards, and advanced features like drillthrough and custom tooltips.
 
 ---
 
